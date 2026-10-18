@@ -9172,6 +9172,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/keyaa/Documents/Kicad/easyeda2kicad/easyeda2kicad.3dshapes/c-1-1478035-0-b-3d.stp"
+			(offset
+				(xyz 0 17 13)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "ad9238:DGK8"
 		(layer "F.Cu")
@@ -13471,6 +13482,18 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-60-1EP_7x7mm_P0.4mm_EP3.4x3.4mm.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/keyaa/Documents/Kicad/easyeda2kicad/easyeda2kicad.3dshapes/QFN-60_L7.0-W7.0-P0.40-TL-EP3.4.step"
 			(offset
 				(xyz 0 0 0)
 			)

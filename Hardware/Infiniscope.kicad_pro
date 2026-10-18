@@ -540,7 +540,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "Infiniscope.step",
+      "step": "../3d/Infiniscope.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

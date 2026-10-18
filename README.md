@@ -10,3 +10,9 @@ Infiniscope is a custom 12-bit oscilloscope made with the RP2350, and the AD9238
 check the PCB on [KiCanvas](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FAhad732%2FInfiniscope%2Ftree%2Fmain%2FHardware)!  
 Check the 3d model in Onshape [here](https://cad.onshape.com/documents/e5e2611525100d0b74de0cef/w/a750fed0a475cfc636f591fd/e/fb3ff11a8c4d4a0d7b13289f)  
 
+# Contributors
+Ahad and Keyaan, 
+Made for [Hack Club](https://hackclub.com/) [ThirdSpace](https://thirdspace.hackclub.com/)!!
+
+# LICENSE
+Licensed under the MIT License
