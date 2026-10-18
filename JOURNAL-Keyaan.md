@@ -1,0 +1,2 @@
+# 18 october 2026
+First time touching hardware this week, the deadline is in a few hours, and i am done with all. Today i did a lot of stuff, mainly PCB routing, firmware and CAD, and all the results can be seen in the [readme](/README.md)!!
