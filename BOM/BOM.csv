@@ -1,0 +1,22 @@
+Designator,Footprint,Value,Quantity,Price,Link
+"BACK, DOWN, MENU, PWR, RUN, SW1, UP",SW_SPST_PTS810,SW_Push,10,3.43,https://www.lcsc.com/product-detail/C221895.html
+"C1, C2",402,15pf,50,0.08,https://www.lcsc.com/product-detail/C696887.html
+"C10, C11, C12, C14, C3, C4, C5, C6, C7, C8, C9",402,100n,100,0.14,https://www.lcsc.com/product-detail/C285038.html
+J1,USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A,USB_C_Receptacle_USB2.0_16P,10,0.53,https://www.lcsc.com/product-detail/C42400252.html
+J2,BNC_TEConnectivity_1478035_Horizontal,Conn_Coaxial,3,8.47,https://robu.in/product/smb-rf-coax-angled-through-hole-male-for-pcb-mount/
+J4,CON_5051101297_MOL,12 Pin FFC P 1mm,5,0.62,https://www.lcsc.com/product-detail/C22371030.html?
+L1,805,3.3u,20,0.44,https://www.lcsc.com/product-detail/C2926398.html
+"R1, R2",402,5.1k,100,0.07,https://www.lcsc.com/product-detail/C54920691.html
+"R3, R4, R5, R6, R7, R8, R9",402,10K,100,0.09,https://www.lcsc.com/product-detail/C2759773.html
+U1,QFN-60-1EP_7x7mm_P0.4mm_EP3.4x3.4mm,RP2350A,3,3.9,https://www.lcsc.com/product-detail/C42411118.html
+U2,SOT-23,MCP1700x-330xxTT,5,0.55,https://www.lcsc.com/product-detail/C41381676.html
+U3,WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm,W25Q128JVP,3,11.14,https://www.lcsc.com/product-detail/C190862.html
+U4,ST_64_1_ADI,AD9238BSTRL-65,1,27.48,https://www.lioncircuits.com/parts/AD9288BSTZ-40
+U5,DGK8,OPA2320AIDGKR,1,16.99,https://www.lcsc.com/product-detail/C545235.html?
+U6,D8,REF5025ID,2,7.01,https://www.lcsc.com/product-detail/C523999.html
+U7,D8,TLV3502AIDR,3,6.21,https://www.lcsc.com/product-detail/C131165.html
+Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,12 mhz,10,0.55,https://www.lcsc.com/product-detail/C16197268.html
+Y2,Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm,10 mhz cmos oscillator,5,1.3,https://www.lcsc.com/product-detail/C49329945.html
+,,PCB+stencil,,22.35,
+,,Screen,1,3.25,https://robu.in/product/goldenmorning-st7789v-240x320-spi-2-0-inch-tft-display/
+,,TOTAL,,114.6,
