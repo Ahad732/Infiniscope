@@ -7469,12 +7469,6 @@
 		(uuid "00c71b6d-f461-41b6-801a-9dbee7dd70cc")
 	)
 	(junction
-		(at 433.07 359.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "03d24d9b-6498-4b98-8813-9882699f08b4")
-	)
-	(junction
 		(at 461.01 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7485,6 +7479,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "10dbdaca-9227-4b38-bc38-90937b36aeb2")
+	)
+	(junction
+		(at 274.32 359.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "11c1e575-aef6-477c-838d-95e2c0a18345")
 	)
 	(junction
 		(at 304.8 52.07)
@@ -7553,6 +7553,12 @@
 		(uuid "458f3def-d95b-4919-809a-30d39b9bf8d3")
 	)
 	(junction
+		(at 398.78 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "473de848-9cce-4314-9c9c-13a8bf7f8b7e")
+	)
+	(junction
 		(at 285.75 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7595,6 +7601,18 @@
 		(uuid "62be246d-6d28-402a-81b0-61f8441456fc")
 	)
 	(junction
+		(at 274.32 299.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65030ff3-53c3-4024-8fc1-8c07dcdaf00e")
+	)
+	(junction
+		(at 215.9 298.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65264f2c-41bf-400e-a53f-07b7cee794bb")
+	)
+	(junction
 		(at 82.55 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7631,10 +7649,10 @@
 		(uuid "76b032f0-5a4d-4e87-ba16-e8953501202e")
 	)
 	(junction
-		(at 425.45 344.17)
+		(at 274.32 328.93)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7b976a1f-277d-40db-8057-fa7dc995f696")
+		(uuid "7f0611f2-8fbc-4165-8910-5607ff76d641")
 	)
 	(junction
 		(at 304.8 59.69)
@@ -7667,16 +7685,22 @@
 		(uuid "84f89414-23f0-45eb-986f-b33870163672")
 	)
 	(junction
-		(at 433.07 344.17)
+		(at 245.11 328.93)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8c318bf0-70e9-4f38-8c7f-1d9cb0c2e191")
+		(uuid "8898a674-0bba-411d-9083-ddfc4b1d95de")
 	)
 	(junction
 		(at 238.76 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8c6a335f-41b4-4622-badf-283340830286")
+	)
+	(junction
+		(at 302.26 328.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "929c4148-1277-4889-843d-c396cc265d6a")
 	)
 	(junction
 		(at 554.99 115.57)
@@ -7695,6 +7719,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9b902bec-6466-4ca0-9384-ff2f7fbd1563")
+	)
+	(junction
+		(at 398.78 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9e98f1ce-9d8a-4f2e-b00c-6d73d8e67452")
 	)
 	(junction
 		(at 66.04 219.71)
@@ -7781,6 +7811,12 @@
 		(uuid "f3323b66-31ee-4172-9888-d195ca5c56e4")
 	)
 	(junction
+		(at 391.16 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f369312b-45c7-4e58-99d4-7e693062e399")
+	)
+	(junction
 		(at 147.32 245.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7807,10 +7843,6 @@
 	(no_connect
 		(at 478.79 80.01)
 		(uuid "1ea82954-f895-4a7e-a8ee-99f6a36b5f76")
-	)
-	(no_connect
-		(at 251.46 119.38)
-		(uuid "1f13a6c1-8cf3-43f5-a8f9-dfb17d10e0b8")
 	)
 	(no_connect
 		(at 534.67 120.65)
@@ -7905,16 +7937,8 @@
 		(uuid "71af98e4-d5a2-4922-b2b5-d08a1202d393")
 	)
 	(no_connect
-		(at 251.46 111.76)
-		(uuid "71b84bea-f40f-4338-a41a-30926c87cc40")
-	)
-	(no_connect
 		(at 251.46 129.54)
 		(uuid "7477962c-8f4d-48a3-b7e8-fc906333805d")
-	)
-	(no_connect
-		(at 251.46 116.84)
-		(uuid "763773ce-ed77-4d4c-854d-63dd46c5ff35")
 	)
 	(no_connect
 		(at 251.46 127)
@@ -7935,10 +7959,6 @@
 	(no_connect
 		(at 534.67 110.49)
 		(uuid "94ccf672-8bae-4132-850f-266042cca4a6")
-	)
-	(no_connect
-		(at 251.46 121.92)
-		(uuid "94d294d6-ab2a-48ef-a532-5fcec79f98d2")
 	)
 	(no_connect
 		(at 478.79 133.35)
@@ -7981,20 +8001,12 @@
 		(uuid "d268ff43-c95a-440a-a0e9-3a76811d7373")
 	)
 	(no_connect
-		(at 251.46 124.46)
-		(uuid "d2b47f95-a1c3-4d04-818f-85bbd766746e")
-	)
-	(no_connect
 		(at 474.98 213.36)
 		(uuid "d96649b3-31ad-474c-95c7-4f529362e29c")
 	)
 	(no_connect
 		(at 477.52 257.81)
 		(uuid "dd4fa2b3-a979-4e6f-a1e2-eea3ad49a586")
-	)
-	(no_connect
-		(at 251.46 114.3)
-		(uuid "de52e11b-d495-4f43-a5d1-827ade47418f")
 	)
 	(no_connect
 		(at 534.67 69.85)
@@ -8068,6 +8080,16 @@
 	)
 	(wire
 		(pts
+			(xy 381 153.67) (xy 381 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07c754a7-068d-4f41-a26e-a3e16a15f0ca")
+	)
+	(wire
+		(pts
 			(xy 74.93 83.82) (xy 82.55 83.82)
 		)
 		(stroke
@@ -8085,6 +8107,16 @@
 			(type default)
 		)
 		(uuid "0cff7433-ebf0-4887-a18b-917a04ad2fa1")
+	)
+	(wire
+		(pts
+			(xy 234.95 331.47) (xy 234.95 328.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e3c78d2-ea55-435d-a760-d8301370ebd6")
 	)
 	(wire
 		(pts
@@ -8188,6 +8220,16 @@
 	)
 	(wire
 		(pts
+			(xy 391.16 142.24) (xy 391.16 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b73cf4a-2599-4276-ae88-064761c0b3bb")
+	)
+	(wire
+		(pts
 			(xy 265.43 52.07) (xy 271.78 52.07)
 		)
 		(stroke
@@ -8218,6 +8260,16 @@
 	)
 	(wire
 		(pts
+			(xy 274.32 299.72) (xy 283.21 299.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cd9dc15-6b5f-417d-9e73-7a5b76e7d14f")
+	)
+	(wire
+		(pts
 			(xy 478.79 125.73) (xy 464.82 125.73)
 		)
 		(stroke
@@ -8245,6 +8297,26 @@
 			(type default)
 		)
 		(uuid "25bbb922-9852-4cda-a4b9-cecd3449e931")
+	)
+	(wire
+		(pts
+			(xy 234.95 318.77) (xy 234.95 321.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2799058a-7013-4956-b1b6-b6cc416487b9")
+	)
+	(wire
+		(pts
+			(xy 274.32 299.72) (xy 274.32 292.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2879a954-ea72-4558-9d8a-bd16179ce005")
 	)
 	(wire
 		(pts
@@ -8288,6 +8360,16 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 328.93) (xy 255.27 328.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a7595a9-b1bd-4fcc-83c3-2d9a42ea8af2")
+	)
+	(wire
+		(pts
 			(xy 214.63 57.15) (xy 214.63 58.42)
 		)
 		(stroke
@@ -8318,6 +8400,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 321.31) (xy 234.95 321.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "304e704d-1291-40fd-9b25-0a245affba9b")
+	)
+	(wire
+		(pts
 			(xy 464.82 95.25) (xy 478.79 95.25)
 		)
 		(stroke
@@ -8345,6 +8437,16 @@
 			(type default)
 		)
 		(uuid "3261c75d-4a78-4e0b-a89a-719a42832f34")
+	)
+	(wire
+		(pts
+			(xy 264.16 302.26) (xy 264.16 299.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35198469-3332-40fa-a5d2-b875a0abea9f")
 	)
 	(wire
 		(pts
@@ -8395,6 +8497,16 @@
 			(type default)
 		)
 		(uuid "3d057363-1db8-48ff-9e7e-7386383a0d01")
+	)
+	(wire
+		(pts
+			(xy 208.28 290.83) (xy 205.74 290.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d35dd09-2abc-4284-ac61-557295b7a0cb")
 	)
 	(wire
 		(pts
@@ -8478,13 +8590,13 @@
 	)
 	(wire
 		(pts
-			(xy 415.29 347.98) (xy 415.29 344.17)
+			(xy 302.26 328.93) (xy 313.69 328.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "47aedf17-ebdb-4be6-9629-3d07d1cf4984")
+		(uuid "49b0c7c6-c662-42c9-87cb-d658a0c09c41")
 	)
 	(wire
 		(pts
@@ -8548,26 +8660,6 @@
 	)
 	(wire
 		(pts
-			(xy 433.07 359.41) (xy 415.29 359.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59b522fa-9790-4c40-a3a6-655758c10102")
-	)
-	(wire
-		(pts
-			(xy 415.29 344.17) (xy 425.45 344.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ac3b532-92f5-475a-afb9-73a1ddde2b65")
-	)
-	(wire
-		(pts
 			(xy 461.01 102.87) (xy 461.01 123.19)
 		)
 		(stroke
@@ -8585,6 +8677,16 @@
 			(type default)
 		)
 		(uuid "5f36fdfa-7d9d-41f9-a622-6f5c0dd3020d")
+	)
+	(wire
+		(pts
+			(xy 381 146.05) (xy 381 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f92ce3c-fd09-450c-9abb-807b7864c0f0")
 	)
 	(wire
 		(pts
@@ -8708,6 +8810,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 288.29) (xy 205.74 290.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d3073e1-49ee-4744-b386-cc1a975a1690")
+	)
+	(wire
+		(pts
 			(xy 48.26 114.3) (xy 52.07 114.3)
 		)
 		(stroke
@@ -8715,6 +8827,16 @@
 			(type default)
 		)
 		(uuid "6d7b939e-ea61-41d6-a5a3-4228effdb9dd")
+	)
+	(wire
+		(pts
+			(xy 294.64 321.31) (xy 292.1 321.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6dff1efb-e1fe-4e8f-9e46-3420ff323119")
 	)
 	(wire
 		(pts
@@ -8745,6 +8867,16 @@
 			(type default)
 		)
 		(uuid "6fb2ae2f-d59b-4999-ac31-8c01f366d7a7")
+	)
+	(wire
+		(pts
+			(xy 292.1 331.47) (xy 292.1 328.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7088abee-5a40-4804-bda1-c3019a7943d9")
 	)
 	(wire
 		(pts
@@ -8808,6 +8940,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 331.47) (xy 264.16 328.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "790bd336-babb-451f-8ee4-5f10d84291be")
+	)
+	(wire
+		(pts
 			(xy 478.79 123.19) (xy 461.01 123.19)
 		)
 		(stroke
@@ -8868,13 +9010,33 @@
 	)
 	(wire
 		(pts
-			(xy 425.45 344.17) (xy 433.07 344.17)
+			(xy 274.32 328.93) (xy 274.32 321.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "84016aee-b247-417e-9f33-3c6f22a5a526")
+		(uuid "83f2d094-3baf-4554-add9-b00376ecae3e")
+	)
+	(wire
+		(pts
+			(xy 264.16 349.25) (xy 264.16 351.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84a652b3-e9eb-46b5-9102-354a28d1e601")
+	)
+	(wire
+		(pts
+			(xy 264.16 289.56) (xy 264.16 292.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "895a14e3-ea80-4836-93b1-2b87a4e286c9")
 	)
 	(wire
 		(pts
@@ -8888,16 +9050,6 @@
 	)
 	(wire
 		(pts
-			(xy 425.45 344.17) (xy 425.45 351.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e44315a-6d7a-4ead-b4b4-61b0c5eeaf15")
-	)
-	(wire
-		(pts
 			(xy 259.08 59.69) (xy 265.43 59.69)
 		)
 		(stroke
@@ -8908,6 +9060,26 @@
 	)
 	(wire
 		(pts
+			(xy 381 142.24) (xy 391.16 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94874a58-94ec-4fd0-a5e9-1b768926b81a")
+	)
+	(wire
+		(pts
+			(xy 205.74 300.99) (xy 205.74 298.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95019715-e9c6-4f29-8371-7f2f8fc444af")
+	)
+	(wire
+		(pts
 			(xy 67.31 90.17) (xy 73.66 90.17)
 		)
 		(stroke
@@ -8915,6 +9087,26 @@
 			(type default)
 		)
 		(uuid "9545cdab-14e4-4902-a99e-d8f83ea0a2fe")
+	)
+	(wire
+		(pts
+			(xy 274.32 328.93) (xy 287.02 328.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95b8e444-9c48-40e9-b392-4de976d09c75")
+	)
+	(wire
+		(pts
+			(xy 274.32 359.41) (xy 284.48 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9723115b-b21f-426e-b80a-a1a99c356895")
 	)
 	(wire
 		(pts
@@ -8945,6 +9137,16 @@
 			(type default)
 		)
 		(uuid "9b201edf-6e5d-420d-a4cf-d9954b49bcf7")
+	)
+	(wire
+		(pts
+			(xy 381 157.48) (xy 398.78 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bb3b515-b61d-4e40-bdae-62d983e947f3")
 	)
 	(wire
 		(pts
@@ -8995,6 +9197,16 @@
 			(type default)
 		)
 		(uuid "a1ac479f-72a2-433b-8ce7-1b6bb7d2e96b")
+	)
+	(wire
+		(pts
+			(xy 215.9 298.45) (xy 215.9 290.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1cfde6d-3cc4-490f-833c-72a895c54598")
 	)
 	(wire
 		(pts
@@ -9078,6 +9290,26 @@
 	)
 	(wire
 		(pts
+			(xy 292.1 318.77) (xy 292.1 321.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b17cabb0-a789-4d77-aaf9-8ae7bf71d791")
+	)
+	(wire
+		(pts
+			(xy 264.16 318.77) (xy 264.16 321.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b51c81ec-a04f-4c84-8461-4cb295beff4e")
+	)
+	(wire
+		(pts
 			(xy 290.83 232.41) (xy 290.83 234.95)
 		)
 		(stroke
@@ -9138,16 +9370,6 @@
 	)
 	(wire
 		(pts
-			(xy 415.29 359.41) (xy 415.29 355.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c1f615d8-d227-4f8f-990b-8ec2e300a3cb")
-	)
-	(wire
-		(pts
 			(xy 45.72 204.47) (xy 54.61 204.47)
 		)
 		(stroke
@@ -9155,6 +9377,16 @@
 			(type default)
 		)
 		(uuid "c1fb1b71-b6d6-47d9-9edb-720dd7497aa7")
+	)
+	(wire
+		(pts
+			(xy 391.16 142.24) (xy 398.78 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2c05628-ac98-4957-ac70-a2ac4ba493c5")
 	)
 	(wire
 		(pts
@@ -9288,6 +9520,16 @@
 	)
 	(wire
 		(pts
+			(xy 274.32 359.41) (xy 274.32 351.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df1dad90-9b80-4857-a1e3-91f0e4a9e9f5")
+	)
+	(wire
+		(pts
 			(xy 283.21 232.41) (xy 290.83 232.41)
 		)
 		(stroke
@@ -9295,6 +9537,16 @@
 			(type default)
 		)
 		(uuid "df3b396d-edda-4b89-ae27-3f12a3f70aee")
+	)
+	(wire
+		(pts
+			(xy 215.9 298.45) (xy 224.79 298.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e366ba3a-ce3b-4057-ad10-075e3fd0c1e7")
 	)
 	(wire
 		(pts
@@ -9308,6 +9560,16 @@
 	)
 	(wire
 		(pts
+			(xy 266.7 292.1) (xy 264.16 292.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6094d0f-617a-402f-862d-67eb1748bfd0")
+	)
+	(wire
+		(pts
 			(xy 279.4 59.69) (xy 285.75 59.69)
 		)
 		(stroke
@@ -9315,6 +9577,16 @@
 			(type default)
 		)
 		(uuid "e72ca20e-0a44-48ef-8df3-e23b0a9b5b6a")
+	)
+	(wire
+		(pts
+			(xy 266.7 321.31) (xy 264.16 321.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e79798c6-f54f-4a62-8f16-190750f7e958")
 	)
 	(wire
 		(pts
@@ -9418,6 +9690,16 @@
 	)
 	(wire
 		(pts
+			(xy 302.26 328.93) (xy 302.26 321.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6ca8cd3-b26d-4fda-a7bc-f2f0a7bf0ddf")
+	)
+	(wire
+		(pts
 			(xy 317.5 60.96) (xy 317.5 59.69)
 		)
 		(stroke
@@ -9435,6 +9717,36 @@
 			(type default)
 		)
 		(uuid "f8c08437-f274-426b-a380-f4594a84e9b7")
+	)
+	(wire
+		(pts
+			(xy 266.7 351.79) (xy 264.16 351.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9cb87c7-88b6-4cd9-9655-c9e7e133c156")
+	)
+	(wire
+		(pts
+			(xy 264.16 361.95) (xy 264.16 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fadcb370-e0d0-4dbb-8567-a182b132f90a")
+	)
+	(wire
+		(pts
+			(xy 245.11 328.93) (xy 245.11 321.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fed9b533-5c48-44ac-b815-36770e299bdd")
 	)
 	(wire
 		(pts
@@ -9486,6 +9798,16 @@
 		)
 		(uuid "140f5e1e-b605-4f08-bbb2-2082b9c29f3b")
 	)
+	(label "BTN_MENU"
+		(at 251.46 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1485915e-05ec-4bd9-a85a-6ff2b9d3a864")
+	)
 	(label "SDA"
 		(at 283.21 250.19 0)
 		(effects
@@ -9526,6 +9848,16 @@
 		)
 		(uuid "22f20ec1-42c2-47ec-856f-a7507aaf1fd5")
 	)
+	(label "BTN_MENU"
+		(at 287.02 328.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "24a34bb4-5c51-4449-9426-d1d692a1b3bf")
+	)
 	(label "XOUT"
 		(at 167.64 245.11 180)
 		(effects
@@ -9545,6 +9877,16 @@
 			(justify left bottom)
 		)
 		(uuid "280eb28e-511f-42db-b5a3-a06b7032e43a")
+	)
+	(label "BTN_PWR"
+		(at 251.46 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2b88a8c6-d8a4-46bc-b746-68380bade3d5")
 	)
 	(label "GP7"
 		(at 251.46 83.82 0)
@@ -9606,6 +9948,26 @@
 		)
 		(uuid "4f93c6b0-6db3-4838-ad3b-d0107c10e6a8")
 	)
+	(label "BTN_DOWN"
+		(at 251.46 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "554ead5e-6877-4f21-8164-d969ed3f7ffa")
+	)
+	(label "BTN_RUN"
+		(at 313.69 328.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5b300065-1901-43fd-908b-5d13c68c5290")
+	)
 	(label "GP9"
 		(at 251.46 88.9 0)
 		(effects
@@ -9625,6 +9987,16 @@
 			(justify right bottom)
 		)
 		(uuid "6592b790-8b8e-442c-97f0-b8e35a3ccacb")
+	)
+	(label "ADC_CLK"
+		(at 406.4 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6afc83ef-1b3a-4343-8548-5b1eba96e139")
 	)
 	(label "GP3"
 		(at 251.46 73.66 0)
@@ -9666,15 +10038,15 @@
 		)
 		(uuid "6e5765f6-8453-480a-84b3-8e2b71e6bda6")
 	)
-	(label "ADC_CLK"
-		(at 440.69 351.79 0)
+	(label "BTN_PWR"
+		(at 224.79 298.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "7235f18a-55d3-4f24-b018-14a73807c688")
+		(uuid "75e3c645-a46c-4702-b69d-3190729a9abb")
 	)
 	(label "GP8"
 		(at 534.67 97.79 0)
@@ -9726,6 +10098,16 @@
 		)
 		(uuid "8883c4e4-2372-43d0-a2d4-627b9456f685")
 	)
+	(label "BTN_RUN"
+		(at 251.46 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8b5fb1f8-7535-4655-a691-11412a779f6d")
+	)
 	(label "GP7"
 		(at 534.67 95.25 0)
 		(effects
@@ -9766,6 +10148,16 @@
 		)
 		(uuid "94138660-50b4-4dd4-aa6e-e6317024384f")
 	)
+	(label "BTN_DOWN"
+		(at 284.48 359.41 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "95edc8a3-cd72-4577-9e4b-b55cebc1b762")
+	)
 	(label "RESET"
 		(at 283.21 252.73 0)
 		(effects
@@ -9785,6 +10177,16 @@
 			(justify right bottom)
 		)
 		(uuid "9d306f5d-e40c-4689-a7e4-b96e2db5d3f7")
+	)
+	(label "BTN_UP"
+		(at 283.21 299.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9dd7acc8-b1d6-4b91-a49c-e6e1fb25d413")
 	)
 	(label "DATA-"
 		(at 194.31 88.9 0)
@@ -9896,6 +10298,16 @@
 		)
 		(uuid "bb9d6020-aac7-49a9-a7de-7e4ffd8ef073")
 	)
+	(label "BTN_UP"
+		(at 251.46 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c2045822-47e7-451f-b3e9-30116f77f103")
+	)
 	(label "RUN"
 		(at 196.85 81.28 0)
 		(effects
@@ -9975,6 +10387,16 @@
 			(justify right bottom)
 		)
 		(uuid "d5e118ee-1faf-409b-9c19-19df94c329a0")
+	)
+	(label "BTN_BACK"
+		(at 251.46 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d7a12ff7-4954-4905-8b03-f9e1130e22a9")
 	)
 	(label "QSPI_IO1"
 		(at 200.66 106.68 180)
@@ -10076,6 +10498,16 @@
 		)
 		(uuid "f47498bc-35bf-4417-9182-93e2951acab4")
 	)
+	(label "BTN_BACK"
+		(at 255.27 328.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f6d27687-6525-4ed3-ac9e-9d39041acd21")
+	)
 	(label "IN1+"
 		(at 477.52 250.19 180)
 		(effects
@@ -10115,6 +10547,85 @@
 			(justify left bottom)
 		)
 		(uuid "fef6f129-810c-44fc-a3b8-ffbe26e4289a")
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 269.24 328.93 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "02d63861-4a81-40ad-b057-c9b0d5de10af")
+		(property "Reference" "SW4"
+			(at 264.16 324.612 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 264.414 326.644 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
+			(at 269.24 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 269.24 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 269.24 328.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f5c4bf90-13d8-4ff0-91a3-61523355f3e1")
+		)
+		(pin "2"
+			(uuid "86136bc9-11d2-49fa-84d1-35b8e36e0493")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "SW4")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:+3V3")
@@ -10348,6 +10859,244 @@
 			(project "Infiniscope"
 				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 270.51 351.79 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "11de9e8d-0d2b-4835-b360-fc3c80965f32")
+		(property "Reference" "R8"
+			(at 272.034 349.758 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10K"
+			(at 268.224 349.758 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 270.51 353.568 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 270.51 351.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 270.51 351.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cc2ed7ff-71e8-42aa-acc4-f91bc8f75a34")
+		)
+		(pin "2"
+			(uuid "4c437fa3-cf7c-4ed1-87fa-baeee2ed90c8")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 264.16 361.95 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "134e8423-3f66-4a2e-af20-bd5f6fd54d09")
+		(property "Reference" "#PWR045"
+			(at 264.16 368.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 264.16 367.03 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 264.16 361.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 264.16 361.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 264.16 361.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "abec23be-d9ae-4c4a-9b2b-57a4c4a65cd2")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 381 149.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1d4594fc-af5c-4684-a455-e2d77fca1dc7")
+		(property "Reference" "C14"
+			(at 380.746 148.082 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 381 151.892 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 381.9652 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 381 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 381 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bbcd1824-7417-47e3-b40a-f449f388e13f")
+		)
+		(pin "2"
+			(uuid "bdea9649-c6ae-4710-ad43-c5177be23bfb")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -10632,6 +11381,84 @@
 			(project "Infiniscope"
 				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 264.16 349.25 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28b37ea5-63cf-464c-8c56-9482d1a87bb2")
+		(property "Reference" "#PWR044"
+			(at 264.16 353.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 264.16 344.17 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 264.16 349.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 264.16 349.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 264.16 349.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "53d6a0e8-7c11-4d86-b17b-c483f23661ac")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -10950,6 +11777,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 234.95 331.47 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3161c709-80f5-4b55-bff4-ed298aa7010e")
+		(property "Reference" "#PWR039"
+			(at 234.95 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 234.95 336.55 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 234.95 331.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 234.95 331.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 234.95 331.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bf07e001-c34f-4855-be0e-5a02e6b9d40f")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 535.94 168.91 0)
 		(unit 1)
@@ -11028,6 +11933,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 210.82 298.45 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3288f4db-e00f-41ec-adae-49229385c9a7")
+		(property "Reference" "SW2"
+			(at 205.74 294.132 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 205.994 296.164 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
+			(at 210.82 293.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 210.82 293.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 210.82 298.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f680658f-8ea2-4326-83d2-9a5bf4b61c2e")
+		)
+		(pin "2"
+			(uuid "3dc75915-6557-450b-81a9-2eb098e6b6d3")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 48.26 114.3 0)
 		(unit 1)
@@ -11100,6 +12084,84 @@
 			(project "Infiniscope"
 				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 292.1 331.47 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3b6bec29-6e02-46cf-bbe1-9c6e4e614066")
+		(property "Reference" "#PWR043"
+			(at 292.1 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 292.1 336.55 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 292.1 331.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 292.1 331.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 292.1 331.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "527f8470-67c7-41c1-bcb2-8dc249b5b388")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -11393,7 +12455,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_0603-4Pin_6.0x3.5mm"
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 153.67 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -11620,6 +12682,85 @@
 			(project "Infiniscope"
 				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
 					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 269.24 299.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "48257ba0-62ca-49ac-93d8-63f1f6e23806")
+		(property "Reference" "SW6"
+			(at 264.16 295.402 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 264.414 297.434 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
+			(at 269.24 294.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 269.24 294.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 269.24 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b9bf3d90-3c7b-4460-9ae1-69d686831242")
+		)
+		(pin "2"
+			(uuid "0db81cef-3bd2-482c-b095-1cfc0310bf47")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -12131,6 +13272,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 269.24 359.41 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4f2b7813-252e-4206-9806-14c6080e9a5a")
+		(property "Reference" "SW7"
+			(at 264.16 355.092 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 264.414 357.124 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
+			(at 269.24 354.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 269.24 354.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 269.24 359.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f6c1815c-caf4-4d28-a028-9d691b7b73f3")
+		)
+		(pin "2"
+			(uuid "45596237-8d3b-468d-9880-0f9519968f29")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "SW7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 71.12 81.28 90)
 		(unit 1)
@@ -12204,6 +13424,84 @@
 			(project "Infiniscope"
 				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
 					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 398.78 157.48 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5c723215-fa3f-4735-b035-25981dfa49c7")
+		(property "Reference" "#PWR037"
+			(at 398.78 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 398.78 162.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 398.78 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 398.78 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 398.78 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9da74d61-312a-42c9-8991-6dc3c149f533")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -12652,92 +13950,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Oscillator:ASE-xxxMHz")
-		(at 433.07 351.79 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6b086404-7d7a-4b9f-94de-3488d3c978ac")
-		(property "Reference" "Y2"
-			(at 450.85 345.3698 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10 mhz cmos oscillator"
-			(at 450.85 347.9098 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm"
-			(at 450.85 360.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.abracon.com/Oscillators/ASV.pdf"
-			(at 430.53 351.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "3.3V CMOS SMD Crystal Clock Oscillator, Abracon"
-			(at 433.07 351.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "4d412d4d-ae28-4abe-8467-43615e99b2d7")
-		)
-		(pin "4"
-			(uuid "57832e20-0f58-41bd-99db-449f2f02c385")
-		)
-		(pin "3"
-			(uuid "dd72db7f-6953-416f-aaae-d8260df65570")
-		)
-		(pin "1"
-			(uuid "554e4236-ce1a-46f0-8570-e1f136a347ec")
-		)
-		(instances
-			(project "Infiniscope"
-				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
-					(reference "Y2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 199.39 171.45 0)
 		(unit 1)
@@ -12816,8 +14028,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 433.07 344.17 0)
+		(lib_id "Switch:SW_Push")
+		(at 240.03 328.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12825,11 +14037,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6f335182-9281-4999-b6df-0ec610fff844")
-		(property "Reference" "#PWR024"
-			(at 433.07 347.98 0)
-			(hide yes)
+		(uuid "71832f98-4c3e-4e01-9d6c-d95f10576930")
+		(property "Reference" "SW3"
+			(at 234.95 324.612 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12838,8 +14048,8 @@
 				)
 			)
 		)
-		(property "Value" "+3V3"
-			(at 433.07 339.09 0)
+		(property "Value" "SW_Push"
+			(at 235.204 326.644 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12848,8 +14058,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 433.07 344.17 0)
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
+			(at 240.03 323.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12860,7 +14070,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 433.07 344.17 0)
+			(at 240.03 323.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12870,8 +14080,8 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 433.07 344.17 0)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 240.03 328.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12882,12 +14092,94 @@
 			)
 		)
 		(pin "1"
-			(uuid "ef2330dd-9850-49d4-99ff-9bd9d64a6e1a")
+			(uuid "23b4f6f1-59f4-44ab-892d-9b81cfea8d4d")
+		)
+		(pin "2"
+			(uuid "88fbe319-52c1-48ba-a1c5-e5306ce8f360")
 		)
 		(instances
 			(project "Infiniscope"
 				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
-					(reference "#PWR024")
+					(reference "SW3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 298.45 321.31 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "72a24987-94df-45d4-840d-7fd1d879a44c")
+		(property "Reference" "R7"
+			(at 299.974 319.278 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10K"
+			(at 296.164 319.278 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 298.45 323.088 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 298.45 321.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 298.45 321.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6ef5206e-1b49-4c69-9689-d7c60be26baa")
+		)
+		(pin "2"
+			(uuid "4d559778-f7fb-4fa8-88e8-bbc562610cfb")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -13050,6 +14342,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 205.74 288.29 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7a393e21-524f-4f27-8248-8b65b4780b2e")
+		(property "Reference" "#PWR024"
+			(at 205.74 292.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 205.74 283.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 205.74 288.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 205.74 288.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 205.74 288.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "38608507-584a-411b-9a82-82e0a4e038d2")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 461.01 135.89 0)
 		(unit 1)
@@ -13200,6 +14570,85 @@
 			(project "Infiniscope"
 				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 270.51 292.1 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8854da12-45ab-402c-b7c4-30c4fffdc410")
+		(property "Reference" "R9"
+			(at 272.034 290.068 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10K"
+			(at 268.224 290.068 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 270.51 293.878 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 270.51 292.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 270.51 292.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8f74cfba-55c8-4db3-93dd-ce37b8a58d79")
+		)
+		(pin "2"
+			(uuid "74b9d69e-1773-4afb-97fb-f7634e4705be")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -13756,6 +15205,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 241.3 321.31 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a2fe9302-4f2c-4f18-9776-250f4c2ccf03")
+		(property "Reference" "R5"
+			(at 242.824 319.278 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10K"
+			(at 239.014 319.278 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 241.3 323.088 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 241.3 321.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 241.3 321.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c355d948-e869-424a-9db3-ea2ac0307bea")
+		)
+		(pin "2"
+			(uuid "f24c899c-46ea-4daa-90b4-82ab30e4cd81")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 224.79 152.4 0)
 		(unit 1)
@@ -14087,6 +15615,248 @@
 			(project "Infiniscope"
 				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
 					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 234.95 318.77 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aa4d7a5e-1b0d-4438-b323-66c99f1a5612")
+		(property "Reference" "#PWR038"
+			(at 234.95 322.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 234.95 313.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 234.95 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 234.95 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 234.95 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "dad20a48-3383-461e-a95c-e1cac1481fb5")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 264.16 318.77 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aa587b4a-6022-4511-a196-31a165c786d1")
+		(property "Reference" "#PWR040"
+			(at 264.16 322.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 264.16 313.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 264.16 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 264.16 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 264.16 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "38031eca-cd15-4b05-bd8c-81aff773b0bd")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "#PWR040")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Oscillator:ASE-xxxMHz")
+		(at 398.78 149.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ac9ea865-d5f5-4174-82bb-3f6994f259f6")
+		(property "Reference" "Y2"
+			(at 416.56 143.4398 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10 mhz cmos oscillator"
+			(at 416.56 145.9798 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm"
+			(at 416.56 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.abracon.com/Oscillators/ASV.pdf"
+			(at 396.24 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "3.3V CMOS SMD Crystal Clock Oscillator, Abracon"
+			(at 398.78 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b6859bf9-d019-400e-bd2a-314ea0a4c068")
+		)
+		(pin "4"
+			(uuid "ea20f1ec-8ea2-4c82-9d7d-0c8242093fa0")
+		)
+		(pin "3"
+			(uuid "5d605a2c-b3a2-41df-b077-b9e5f83f3c5a")
+		)
+		(pin "1"
+			(uuid "1fff409c-1975-4589-afc8-ce4983e0e358")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "Y2")
 					(unit 1)
 				)
 			)
@@ -14812,8 +16582,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 415.29 351.79 0)
+		(lib_id "power:GND")
+		(at 264.16 331.47 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14821,31 +16591,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "daf27c4c-ab32-4ef9-b7ce-ac533c481ff3")
-		(property "Reference" "C13"
-			(at 415.036 350.012 0)
+		(fields_autoplaced yes)
+		(uuid "d225d0a3-bef2-48b5-a00f-58b5a991fea2")
+		(property "Reference" "#PWR041"
+			(at 264.16 337.82 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "100n"
-			(at 415.29 353.822 0)
+		(property "Value" "GND"
+			(at 264.16 336.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 416.2552 355.6 0)
+		(property "Footprint" ""
+			(at 264.16 331.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14856,7 +16626,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 415.29 351.79 0)
+			(at 264.16 331.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14866,8 +16636,8 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 415.29 351.79 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 264.16 331.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14878,15 +16648,169 @@
 			)
 		)
 		(pin "1"
-			(uuid "06ca530f-7e6c-422b-9b59-049779c1f5dd")
-		)
-		(pin "2"
-			(uuid "dabedac4-3657-47a4-88a8-9ba72f03203e")
+			(uuid "0ff07f01-5c6e-41fd-b132-1cf99633c594")
 		)
 		(instances
 			(project "Infiniscope"
 				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
-					(reference "C13")
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 297.18 328.93 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d47161eb-b7ea-49d1-a2ef-2ddecda71ce4")
+		(property "Reference" "SW5"
+			(at 292.1 324.612 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 292.354 326.644 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
+			(at 297.18 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 297.18 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 297.18 328.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6a66457c-9d25-4763-a131-514d3e8bd6a7")
+		)
+		(pin "2"
+			(uuid "7dc77115-66b8-4116-b819-3a53f38e6e0c")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "SW5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 264.16 289.56 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d6cac4cf-75fc-40e0-be67-4030e38ddd14")
+		(property "Reference" "#PWR046"
+			(at 264.16 293.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 264.16 284.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 264.16 289.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 264.16 289.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 264.16 289.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0f8aec19-30b9-4943-9537-be44b1f29891")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -15192,6 +17116,241 @@
 			(project "Infiniscope"
 				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 212.09 290.83 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "dfb57ebb-cd94-44f3-926f-b2a2ad4528c4")
+		(property "Reference" "R4"
+			(at 213.614 288.798 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10K"
+			(at 209.804 288.798 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 212.09 292.608 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 212.09 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 212.09 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "952824cf-e3fd-493d-9748-9039df8a472b")
+		)
+		(pin "2"
+			(uuid "9631f3fd-a08c-46ca-a6e1-b191f94ce97e")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 292.1 318.77 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e244dbc6-1bb4-4235-a6e8-a9fc36e99fa4")
+		(property "Reference" "#PWR042"
+			(at 292.1 322.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 292.1 313.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 292.1 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 292.1 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 292.1 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b76578fa-3518-4995-b768-4c842e243a11")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "#PWR042")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 398.78 142.24 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e2651958-c6cb-42b5-aacd-d6266a7508a7")
+		(property "Reference" "#PWR036"
+			(at 398.78 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 398.78 137.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 398.78 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 398.78 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 398.78 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6a49a676-a638-455a-b149-4d7e0d48bef7")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -15720,6 +17879,241 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 270.51 321.31 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ed29d23b-e8f0-49ad-8f9f-1c2707606b57")
+		(property "Reference" "R6"
+			(at 272.034 319.278 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10K"
+			(at 268.224 319.278 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 270.51 323.088 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 270.51 321.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 270.51 321.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "403b9cd3-cc64-4bbb-9927-c2afe180e5c4")
+		)
+		(pin "2"
+			(uuid "904cca15-6a2a-4474-86b3-f50edf8397f4")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 264.16 302.26 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f0b5a9a7-b2af-47f1-8d75-bb0a4d6f6acc")
+		(property "Reference" "#PWR047"
+			(at 264.16 308.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 264.16 307.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 264.16 302.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 264.16 302.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 264.16 302.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a8946592-8d16-4880-9a99-130906b4657a")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 205.74 300.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f22698a6-d506-4330-ac4b-a1bccdd78da7")
+		(property "Reference" "#PWR025"
+			(at 205.74 307.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 205.74 306.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 205.74 300.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 205.74 300.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 205.74 300.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b399e258-8897-4fef-b584-4a9b9a6a9b72")
+		)
+		(instances
+			(project "Infiniscope"
+				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 279.4 55.88 0)
 		(unit 1)
@@ -15795,84 +18189,6 @@
 			(project "Infiniscope"
 				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
 					(reference "C3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 433.07 359.41 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f5b0a155-4def-4b25-a710-6579c442787e")
-		(property "Reference" "#PWR025"
-			(at 433.07 365.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 433.07 364.49 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 433.07 359.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 433.07 359.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 433.07 359.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "555a1f72-1590-4334-89e7-9800a71e288e")
-		)
-		(instances
-			(project "Infiniscope"
-				(path "/a3f96406-195a-44f9-9010-9270b062daaf"
-					(reference "#PWR025")
 					(unit 1)
 				)
 			)
